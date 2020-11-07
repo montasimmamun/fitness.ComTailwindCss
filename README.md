@@ -27,7 +27,7 @@
 
 <br>
 
-<h2 align="left">Demo : https://montasim.github.io/Personal-Portfolio-3/</h2>
+<h2 align="left">Demo : https://montasim.github.io/fitness.com//</h2>
 
 <h2 align="left">Website Stats</h2>
 <p align="center">
